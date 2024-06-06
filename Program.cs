@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 public class ManagementSystem
 {
     public class User
